@@ -1,2 +1,2 @@
 # HotSpot
-A proj used to involved 
+A proj used to be involved in lab
